@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aakash Pahuja
+- 👀 I’m interested in pulling up the requests 😉
+- 🌱 I’m currently learning Typescript in React
+- 📫 How to reach me ? Goto https://aakashpahuja.com
